@@ -2,7 +2,7 @@
 
 ## Project pipeline
 
-![Low-light image enhancement pipeline](assets/pipeline.png)
+![Low-light image enhancement pipeline](assets/pipeline-pic.png)
 
 # Low-Light Image Enhancement
 
