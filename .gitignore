@@ -17,7 +17,6 @@ Thumbs.db
 # Data and generated artifacts (do not commit private/large datasets)
 data/paired/
 data/raw/
-checkpoints/*.pth
 outputs/
 reports/metrics.csv
 *.log
