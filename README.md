@@ -4,8 +4,6 @@
 
 This repository organizes the code and research from *Low-Light Image Enhancement: A Comparative Study of Classical Algorithms and a Trained Residual U-Net* into a reproducible, reusable project. It includes classical enhancement methods, a PyTorch model, training and inference commands, paired-image evaluation, and the accompanying research paper.
 
-> **Model weights and project resources:** The trained `best.pth` checkpoint and other supplied files are hosted on [Google Drive](https://drive.google.com/drive/folders/1I-YwALN_dvdBpt0yApZlVd_Vhtkiy2s0?usp=sharing). Download the checkpoint and place it at `checkpoints/best.pth`. The checkpoint is not committed to Git because model files can be large.
-
 ## Contents
 
 - **Residual U-Net:** encoder-decoder architecture with skip connections, residual blocks, InstanceNorm, LeakyReLU, and sigmoid RGB output.
